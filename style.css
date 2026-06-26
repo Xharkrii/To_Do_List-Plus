@@ -49,8 +49,9 @@ h1{
     margin-left: 20px;
     background: transparent;
     border: .7px solid rgb(111, 163, 28);
-    border-radius: 20px;
+    border-radius: 5px;
     color: lime;
+    padding: 10px 15px;
 }
 #submit:hover{
     scale: 1.2;
@@ -83,7 +84,7 @@ section div{
 #container div span{
     color: rgb(143, 218, 23);
     background: transparent;
-    padding: 10px 15px;
+    padding: 7px 10px;
     border-radius: 5px;
     transition: 0.25s ease-in-out;
 }
